@@ -1,0 +1,7 @@
+body{
+	/*background: url('main.jpeg') no-repeat;*/
+	background: white;	
+	background-size: cover;
+	font-family: Arial;
+	color: black;
+}
